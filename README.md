@@ -1,0 +1,2 @@
+# Typing
+Typing's bot 
